@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "36523340267",
+    "firebase_url": "https://fir-demo-c086e.firebaseio.com",
+    "project_id": "fir-demo-c086e",
+    "storage_bucket": "fir-demo-c086e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36523340267:android:2ae3dc55cfc5c6a85829ae",
+        "android_client_info": {
+          "package_name": "com.positronx.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36523340267-eri0g1p7idkoh0glsoff6h4267fr0fpc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHthVrpfFiJOpnA5VghOuGlLhfecZlzZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36523340267-eri0g1p7idkoh0glsoff6h4267fr0fpc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
